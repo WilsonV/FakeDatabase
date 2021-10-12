@@ -1,1 +1,3 @@
-["Max","Sally","Doger","Nito"]
+{
+  "pets" : ["Max","Sally","Doger","Nito"]
+}
