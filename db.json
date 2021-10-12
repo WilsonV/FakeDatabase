@@ -1,3 +1,6 @@
 {
-  "pets" : ["cody","fira","marcy","milton","pork_chop"]
+  "pets" : [
+    {"id": 1, "name": "cody", "imageUrl": "cody.jpg"},
+    "fira","marcy","milton","pork_chop"
+  ]
 }
